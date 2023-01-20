@@ -2,4 +2,4 @@
 
 ## Required Dependencies
 
-Please run pip install -r requirements.txt (python3 required).
+Please run `pip install -r requirements.txt` (`python3` required).
